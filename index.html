@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Туризм</title>
+</head>
+<body style="background-color: darkgrey; font-family: monospace">
+    <div style="background-color: dimgrey">
+        <h1 style="text-align: center">Добро пожаловать</h1>
+    </div>
+    <div style="background-color: dimgrey">
+        <form action="/cgi-bin/form.py" style="margin: 10px;">
+            <br>
+            <label>ФИО: ----------</label>
+            <input type="text" name="text_fio" required> <br> <br>
+            <label>Номер телефона: </label>
+            <input type="text" name="text_num" required> <br> <br>
+            <label>Ваша страна: --</label>
+            <input type="text" name="text_country" required> <br> <br>
+            <label>Город: --------</label>
+            <input type="text" name="text_city" required> <br> <br>
+            <label>Индекс: -------</label>
+            <input type="text" name="text_index" required> <br> <br>
+            <label>Куда : --------</label>
+            <input type="text" name="text_place" required> <br> <br>
+            <input type="submit">
+        </form>
+    </div>
+    <div>
+        <br>
+        <a href="cgi-bin/countries.py/"><h2>Список стран в которые вы можете полететь </h2></a>
+        <br>
+        <a href="cgi-bin/ticks.py/"><h2>Список билетов </h2></a>
+        <br>
+        <a href="cgi-bin/export.py/"><h2>Экспорт таблицы </h2></a>
+        <br>
+        <a href="cgi-bin/import.py/"><h2>Импорт таблицы </h2></a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<table>
+  <user>
+    <ID>2</ID>
+    <FIO>Георгий Фамилия Отч</FIO>
+    <PHONE>88005553535</PHONE>
+    <COUNTRY>Россия</COUNTRY>
+    <CITY>Краснодар</CITY>
+    <INDEX>350000</INDEX>
+  </user>
+  <user>
+    <ID>3</ID>
+    <FIO>Мария Щищ Иванова</FIO>
+    <PHONE>89534067450</PHONE>
+    <COUNTRY>Россия</COUNTRY>
+    <CITY>Москва</CITY>
+    <INDEX>100100</INDEX>
+  </user>
+  <user>
+    <ID>4</ID>
+    <FIO>Коля</FIO>
+    <PHONE>8111222333</PHONE>
+    <COUNTRY>США</COUNTRY>
+    <CITY>Нью-Йорк</CITY>
+    <INDEX>999999</INDEX>
+  </user>
+  <user>
+    <ID>5</ID>
+    <FIO>Импорт 1</FIO>
+    <PHONE>111</PHONE>
+    <COUNTRY>Россия</COUNTRY>
+    <CITY>Краснодар</CITY>
+    <INDEX>350000</INDEX>
+  </user>
+  <user>
+    <ID>6</ID>
+    <FIO>Импорт 2</FIO>
+    <PHONE>222</PHONE>
+    <COUNTRY>Россия</COUNTRY>
+    <CITY>Москва</CITY>
+    <INDEX>100100</INDEX>
+  </user>
+  <user>
+    <ID>7</ID>
+    <FIO>Жора</FIO>
+    <PHONE>822372626</PHONE>
+    <COUNTRY>Россия</COUNTRY>
+    <CITY>Краснодар</CITY>
+    <INDEX>350000</INDEX>
+  </user>
+</table>

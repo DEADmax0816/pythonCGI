@@ -1,0 +1,18 @@
+<table>
+  <user>
+    <ID>8</ID>
+    <FIO>Импорт 111</FIO>
+    <PHONE>11123</PHONE>
+    <COUNTRY>Россия</COUNTRY>
+    <CITY>Краснодар</CITY>
+    <INDEX>350000</INDEX>
+  </user>
+  <user>
+    <ID>9</ID>
+    <FIO>Импорт 222</FIO>
+    <PHONE>222444</PHONE>
+    <COUNTRY>Россия</COUNTRY>
+    <CITY>Москва</CITY>
+    <INDEX>100100</INDEX>
+  </user>
+</table>
